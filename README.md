@@ -1,2 +1,3 @@
 # TicTacToe
-A simple TicTacToe app using C# Windows Forms
+
+![Image of TicTacToe](https://github.com/nate51315/TicTacToe/blob/master/images/tictactoe.png)
